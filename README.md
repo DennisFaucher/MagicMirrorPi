@@ -10,3 +10,4 @@ Description of files:<br>
 <li>dim.sh: Uses the GPIO pin commands to dim the screen to 10 (out of a possible 1024)</li>
 <li>bright.sh: Uses the GPIO pin commands to brighten the screen to 1023 (out of a possible 1024)</li>
 </ul>
+![Pi Screen](https://imgur.com/XrWkQXe "Pi Screen")</br>
